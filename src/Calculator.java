@@ -1,4 +1,9 @@
 public class Calculator {
+
+    public static void message(){
+        System.out.println("Calculator Application");
+    }
+
     public static double add(double num1, double num2){
 
         return num1+num2;
